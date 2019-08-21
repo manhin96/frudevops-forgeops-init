@@ -1,0 +1,16 @@
+{
+  "metadata" : {
+    "realm" : null,
+    "amsterVersion" : "6.5.2",
+    "entityType" : "Realms",
+    "entityId" : "L2ZydWRldm9wcy1yZWFsbQ",
+    "pathParams" : { }
+  },
+  "data" : {
+    "_id" : "L2ZydWRldm9wcy1yZWFsbQ",
+    "parentPath" : "/",
+    "active" : true,
+    "name" : "frudevops-realm",
+    "aliases" : [ ]
+  }
+}
