@@ -55,6 +55,7 @@
     "com.sun.identity.authentication.super.user" : "uid=amAdmin,ou=People,%ROOT_SUFFIX%",
     "com.sun.identity.saml.xmlsig.keyprovider.class" : "@XMLSIG_KEY_PROVIDER@",
     "org.forgerock.openam.timerpool.shutdown.retry.interval" : "15000",
+    "com.sun.identity.server.fqdnMap[subscribers.frudevops-manhin.example.com]" : "subscribers.frudevops-manhin.example.com",
     "com.sun.identity.plugin.monitoring.saml1.class" : "@MONSAML1_PROVIDER_CLASS@",
     "org.forgerock.openam.showServletTraceInBrowser" : false,
     "com.iplanet.am.cookie.c66Encode" : true,
