@@ -34,14 +34,14 @@
       "moduleBasedAuthEnabled" : true,
       "zeroPageLoginAllowedWithoutReferrer" : true,
       "sharedSecret" : null,
-      "sharedSecret-encrypted" : "AAAAA0FFUwIQT2QW3d8lSP1MSlQ7Krmrkj3Lr5+uMTc2QwSOZiYmyOWe1srj2nLONCTam4gOnuOPssMvBOjBvOneXaqsv8/v/wQ2H1nhy0qj",
+      "sharedSecret-encrypted" : "AAAAA0FFUwIQvzLnLvsto7L5SCQVn4LJQahXZEqsau8iA/u+Qkk1Hz+EtbMEHndBFje9U7iaXwhu6AEnBwFtWdeEdjqMSfWcrCgsecknfCfU",
       "keyAlias" : "test",
       "zeroPageLoginEnabled" : false,
       "zeroPageLoginReferrerWhiteList" : [ ]
     },
     "postauthprocess" : {
       "usernameGeneratorClass" : "com.sun.identity.authentication.spi.DefaultUserIDGenerator",
-      "loginFailureUrl" : [ "" ],
+      "loginFailureUrl" : [ ],
       "userAttributeSessionMapping" : [ ],
       "loginPostProcessClass" : [ ],
       "usernameGeneratorEnabled" : true,

@@ -1,0 +1,36 @@
+{
+  "metadata" : {
+    "realm" : "/subscribers",
+    "amsterVersion" : "6.5.2",
+    "entityType" : "PolicyConfiguration",
+    "entityId" : "PolicyConfiguration",
+    "pathParams" : { }
+  },
+  "data" : {
+    "_id" : "",
+    "policyHeartbeatInterval" : 10,
+    "bindDn" : "cn=Directory manager",
+    "ldapServer" : [ "configstore-0.configstore:1389" ],
+    "connectionPoolMinimumSize" : 1,
+    "usersSearchAttribute" : "uid",
+    "userAliasEnabled" : false,
+    "usersSearchFilter" : "(objectclass=inetorgperson)",
+    "searchTimeout" : 5,
+    "usersSearchScope" : "SCOPE_SUB",
+    "subjectsResultTTL" : 10,
+    "sslEnabled" : false,
+    "usersBaseDn" : "ou=identities",
+    "bindPassword" : null,
+    "bindPassword-encrypted" : "AAAAA0FFUwIQIrbjms6yjpXlu57c1M0JPUnfm3Vg509qyHJgfauz8XGx84/zBpE6vw==",
+    "connectionPoolMaximumSize" : 10,
+    "policyHeartbeatTimeUnit" : "SECONDS",
+    "maximumSearchResults" : 100,
+    "realmSearchFilter" : "(objectclass=sunismanagedorganization)",
+    "checkIfResourceTypeExists" : true,
+    "_type" : {
+      "_id" : "policyconfiguration",
+      "name" : "Policy Configuration",
+      "collection" : false
+    }
+  }
+}
